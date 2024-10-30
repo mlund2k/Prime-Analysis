@@ -1,4 +1,7 @@
 # Prime-Analysis
+
+![image](https://github.com/user-attachments/assets/09eac7cc-36be-4994-9dfb-67f8ca914a1b)
+
 This Power BI exploratory data analysis project explored the demographics and statistics of various Prime Video media based on metrics such as ratings, genre, country, and release year.
 
 This analysis takes place within Power BI building a dashboard and performing some data cleaning. This can be viewed in the following links:
